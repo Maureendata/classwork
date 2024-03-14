@@ -1,3 +1,4 @@
-logs/dev.logs
-main.log
+logs/
+main.logs
+*.log
 bin/
